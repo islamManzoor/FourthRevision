@@ -8,5 +8,6 @@ public class gitClass
 public void test()
 {
 	System.out.println("GitHub Learning");
+	System.out.println("Changes from GitHub");
 }
 }
